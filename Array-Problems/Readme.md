@@ -71,13 +71,50 @@ If he consecutively clicked the mouse at time x1 and time ×2 (where ×1<x2), a 
 What time was a double click fired for the first time? If no double click
 was fired, print -1 instead.
 
-### Problem 11 :-
-### Problem 12 :-
-### Problem 13 :-
-### Problem 14 :-
-### Problem 15 :-
-### Problem 16 :-
-### Problem 17 :-
-### Problem 18 :-
-### Problem 19 :-
+### Problem 11 :- Socks Problem
+You have N socks. The color of the i-th sock is A[i] . Here A represents the array of socks.
+You want to perform the following operation as many times as possible. How many times can it be performed at most?
+Choose two same-colored socks that are not paired yet, and pair them.
+Print the number of Paired Socks.
+Note: One sock can only be used to make one pair.
+
+### Problem 12 :- Prepend and Append
+Akhil initially had a binary stringt s (possibly of length 0). He performed the following operation several (possibly zero) times:
+• Add O to one end of the string and 1 to the other end of the string.
+For example, starting from the string 1011, you can obtain either 010111 or 110110.
+You are given Akhil's final string. What is the length of the shortest possible string he could have started with?
+† A binary string is a string (possibly the empty string) whose characters are either 0 or 1.
+
+### Problem 13 :- Marathon
+Description :-
+You take part in a marathon, and there are many different points from where you can start running (named from 0); at each point, there is a counter for energy drinks. Not all energy drinks are the same; every one of them gives you a different amount of energy. With one unit of energy, you can only run 1 km, and the starting points are located randomly, so the distance between them is not fixed. Assume that at the start of the marathon, you're exhausted. So you want to find the point from which you should start running so that you complete the whole marathon.
+Note: The marathon is circular, your start point is the end point also.
+
+### Problem 14 :- Count With Condition
+Given an array of length N and an integer X, the task is to find the number of subsets with a sum equal to X.
+
+### Problem 15 :- Masai Competitions
+Masai is organizing a sports fest that is going to run for N days, and everyday M people are going to participate in it. Each player is having some power rating P. The person with hig
+her value of P, wins everyday. You are given the powers of all the people participating everyday. You have to find the winner for everyday, and print their power in the form of a list. R
+efer the sample I/O for better understanding.
+Note: Two people may have the same power.
+
+### Problem 16 :- Sum Exists or Not
+Given an array of non-negative integers, and a value 'sum', determine if there is a subset of the given set (array) with sum equal to given sum.
+If there is a subset whose sum is equal to the required sum then print "yes" else print "no" without quotes.
+
+### Problem 17 :- Maximum Apples
+You have some apples and a basket that can carry up to W units of weight.
+Given an integer array weight of size N where weight i is the weight of the ith apple, return the maximum number of apples you can put in the basket.
+
+### Problem 18 :- Consecutive ones
+You are given a binary string consisting of characters 'O' and '1' only. In one move you can choose any contiguous subsegment of this string of length less than or equal to k and con
+vert all elements of this segment to 1.
+Your task is to find the maximum length of contiguous '1' you can get after one move.
+
+### Problem 19 :- Flower Management
+You have a long flowerbed in which some of the plots are planted, and some are not. However, flowers cannot be planted in adjacent plots.
+Given an integer array flowerbed containing e's and 1's, where o means empty and 1 means not empty, and an integer n, find out if if n new flowers can be planted in the flowerb
+ed without violating the no-adjacent-flowers rule.
+
 ### Problem 20 :-
