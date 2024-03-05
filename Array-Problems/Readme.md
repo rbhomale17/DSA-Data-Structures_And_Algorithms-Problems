@@ -117,4 +117,16 @@ You have a long flowerbed in which some of the plots are planted, and some are n
 Given an integer array flowerbed containing e's and 1's, where o means empty and 1 means not empty, and an integer n, find out if if n new flowers can be planted in the flowerb
 ed without violating the no-adjacent-flowers rule.
 
-### Problem 20 :-
+### Problem 20 :- Longest comman prefix
+Write a function to find the longest common prefix string amongst an array of strings.
+
+If there is no common prefix, return an empty string "".
+Example 1:
+
+Input: strs = ["flower", "flow", "flight"]
+Output: "fl"
+Example 2:
+
+Input: strs = ["dog", "racecar", "car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
