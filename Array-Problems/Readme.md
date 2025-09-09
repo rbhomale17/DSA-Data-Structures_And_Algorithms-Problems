@@ -174,3 +174,24 @@ Example 2:
 Input: nums = [0,0,0,0,0], goal = 0
 Output: 15
 ```
+
+### Problem 22 :- Find All Unique Subsets with Sum Equal to Maximum Array Element
+```
+**Problem_live_link = ""**  # Add a link if available
+
+Given an array `a`, find all subsets whose sum equals the **largest element** in the array. Then, return only **unique subsets**.
+
+Example 1:
+
+Input: a = [4, 6, 23, 10, 1, 3, 20, 3]  
+Output: [[3, 4, 6, 10], [3, 20], [1, 3, 3, 6, 10]]  # All unique subsets that sum to 23
+
+Example 2:
+
+Input: a = [1, 2, 3, 4]  
+Output: [[1,3]]  # Unique subsets that sum to 4
+
+Notes:  
+- Subsets can be of any length.  
+- The solution should remove duplicate subsets if any.  
+```
