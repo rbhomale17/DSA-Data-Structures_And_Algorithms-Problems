@@ -1,6 +1,7 @@
 """
 2169. Count Operations to Obtain Zero
-https://leetcode.com/problems/count-operations-to-obtain-zero/
+Que.:  https://leetcode.com/problems/count-operations-to-obtain-zero/
+Soln.: https://leetcode.com/submissions/detail/1827779209/
 
 You are given two non-negative integers num1 and num2.
 
@@ -49,4 +50,5 @@ class Solution:
 solver = Solution()
 print(solver.countOperations(2, 3))   # Output: 3
 print(solver.countOperations(10, 10)) # Output: 1
+
 print(solver.countOperations(5, 4)) # Output: 5
